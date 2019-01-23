@@ -27,3 +27,9 @@ Peerflix es un programa cuyo cometido es descargar torrents, pero se enfoca más
 `peerflix nombre_torrent.torrent --vlc`
 
 Suele tardar un rato hasta reproducir la película, dependiendo de la conexión a internet.
+
+# ¿Dónde se almacenan los torrents ya descargados? 
+
+`/tmp/torrent-stream/`
+
+En la Raíz del sistema, dentro de tmp los encontraremos.
