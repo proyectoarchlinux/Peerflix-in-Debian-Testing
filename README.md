@@ -36,6 +36,8 @@ Peerflix es un programa cuyo cometido es descargar torrents, pero se enfoca más
 
 Suele tardar un rato hasta reproducir la película, dependiendo de la conexión a internet.
 
+Si por alguna extraña razón, la película se cierra y ya se ha descargado la película, simplemente abre la película ya descargada en el directorio que viene a continuación.
+
 # ¿Dónde se almacenan los torrents ya descargados? 
 
 `/tmp/torrent-stream/`
