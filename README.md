@@ -10,19 +10,27 @@ Peerflix es un programa cuyo cometido es descargar torrents, pero se enfoca más
 
 **Descarga el script sh y dale permisos de ejecución** 
 
-`chmod 777 install-peerflix.sh`
+`chmod +x install-peerflix.sh`
 
 **Usuarios de archlinux**
 
-`chmod 777 install-peerflix-archlinuxUsers.sh`
+`chmod +x install-peerflix-archlinuxUsers.sh`
 
 **Abre el script e instalalo** 
 
 `sh install-peerflix.sh`
 
+Ó
+
+`./install-peerflix.sh`
+
 **Usuarios de archlinux**
 
 `sh install-peerflix-archlinuxUsers.sh`
+
+Ó
+
+`./install-peerflix-archlinuxUsers.sh`
 
 # Utilización
 
